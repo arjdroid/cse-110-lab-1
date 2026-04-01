@@ -5,7 +5,7 @@ I'm a [Computer Science](https://cse.ucsd.edu) and [Philosophy](https://philosop
 
 ## My Computer Use
 
-I've been tinkering with software, and programming for **most of my life**, and my favourite computer interface is the terminal.
+I've been tinkering with software and programming for **most of my life**, and my favourite computer interface is the terminal.
 
 Here's a screenshot of my setup using `ghostty`:
 
