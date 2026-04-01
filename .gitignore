@@ -1,4 +1,8 @@
+# macOS stuff
+**/.DS_Store
 # elm-package generated files
 elm-stuff
 # elm-repl generated files
 repl-temp-*
+# lab assignment stuff
+PRIVATE.txt
